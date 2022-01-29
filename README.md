@@ -1,2 +1,0 @@
-# plus
-The + Programming Language.
