@@ -7,11 +7,11 @@
  - `+` Increments the program's accumulator
 
 ## Examples
- - Increment the accumulator once: a.+
+ - [Increment the accumulator once:](ex/a.+)
 ```
 +
 ```
- - Increment the accumulator four times: b.+
+ - [Increment the accumulator four times:](ex/b.+)
 ```
 ++++
 ```
