@@ -16,6 +16,15 @@
 ++++
 ```
 
+## Build from Source Code
+ To build the application from source code, first install the required dependencies:
+  - OCaml 4.13.1
+
+ You can compile The + Programming Language Interpreter with:
+ ``` 
+ ocamlopt +.ml -o +
+ ```
+
 ## Version
  - `[0.0.1]` First release
 
