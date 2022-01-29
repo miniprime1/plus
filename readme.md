@@ -6,6 +6,16 @@
 ## Operations
  - `+` Increments the program's accumulator
 
+## Examples
+ - Increment the accumulator once:
+```
++
+```
+ - Increment the accumulator four times:
+```
+++++
+```
+
 ## Version
  - `[0.0.1]` First release
 
