@@ -25,7 +25,7 @@ let interpret chan =
   try let c = input_char chan in
     begin
       match c with
-	  '+' -> plus ()
+	  '+' -> accumlator ()
 	| _ -> err_unknown c
     end
   with End_of_file -> err_unexpected_eof ()
